@@ -1,2 +1,0 @@
-webpackJsonp([8],{"+S0e":function(e,t){},ctg2:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"container"},[this._v("\n  关于博主\n")])},staticRenderFns:[]};var c=n("VU/8")({name:"lcz-upper-main"},a,!1,function(e){n("+S0e")},"data-v-201ac21b",null);t.default=c.exports}});
-//# sourceMappingURL=8.680e13840058b6adafee.js.map
